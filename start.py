@@ -16,7 +16,8 @@
 
 # print(*A, sep = ' >:3 ')
 
-str = 'Hello my goofy friend \'maryam\' how do you do?'
-str2 = "Gandhi is a 'great man'! surely!\n do you want to //drink a tee?"
-print(str)
-print(str2)
+message = 'Hello my goofy friend \'maryam\' how do you do?'
+another_message = "Gandhi is a 'great man'! surely!\n do you want to //drink a tee?"
+
+print(message)
+print(another_message)
