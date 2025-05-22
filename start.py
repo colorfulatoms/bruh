@@ -23,3 +23,5 @@ third_message = "Boo!"
 print(message)
 print(another_message)
 print(third_message)
+
+print("bob is lazy")
