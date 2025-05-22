@@ -18,6 +18,8 @@
 
 message = 'Hello my goofy friend \'maryam\' how do you do?'
 another_message = "Gandhi is a 'great man'! surely!\n do you want to //drink a tee?"
+third_message = "Boo!"
 
 print(message)
 print(another_message)
+print(third_message)
